@@ -63,15 +63,15 @@ KGWRAPS integrates knowledge graphs with polymer science research to enhance dat
 This repository provides supporting code and datasets for knowledge graph embedding (KGE) experiments. It includes scripts compatible with Python 3.7.9 to 3.10.x, dataset variations of FB15k-237, and ablation data for generating FB15k-238 and FB15k-239.
 
 ### [KnowWhereGraph - Ohio](https://github.com/kastle-lab/kwg-ohio)
-A repository or KnowWhereGraph providing Ohio's public health data sources, including cancer statistics, infectious disease reports, hospital data, and medical marijuana information. It also features natural language processing (NLP) resources for generating SPARQL queries from natural language, along with research papers, theses, and articles on NLP and knowledge graphs.
+A repository for KnowWhereGraph providing Ohio's public health data sources, including cancer statistics, infectious disease reports, hospital data, and medical marijuana information. It also features natural language processing (NLP) resources for generating SPARQL queries from natural language, along with research papers, theses, and articles on NLP and knowledge graphs.
 
 ### [Knowledge Graphs and Knowledge Networks - Under Contruction](https://github.com/kastle-lab/knowledge-graphs-knowledge-networks)
 This repository hosts resources for the Knowledge Graphs and Knowledge Networks Research in Neurosymbolic AI.
 
-### [MODL: Modular Ontology Design Library](https://github.com/kastle-lab/KGWRAPS)
+### [MODL: Modular Ontology Design Library](https://github.com/kastle-lab/modular-ontology-design-library)
 MODL (Modular Ontology Design Library) is a comprehensive collection of reusable ontology design patterns aimed at facilitating ontology development. It includes patterns such as Agent-Role, Causal Event, and Part-Whole, among others. MODL is structured using the OPLa ontology and provides detailed documentation covering its motivation, patterns, and schema. 
 
-### [KASTLE - Drawbridge](https://github.com/kastle-lab/KGWRAPS)
+### [KASTLE - Drawbridge](https://github.com/kastle-lab/kastle-drawbridge)
 **kastle-drawbridge** is a beginner-friendly curriculum designed to take learners from no coding experience to building and querying knowledge graphs. It covers Python basics, data structures, and I/O manipulation, followed by hands-on knowledge graph development using RDFLib, ontology design, and triplestore querying with Jena Fuseki.. 
 
 ### [Cybersecurity Knowledge Graphs](https://github.com/kastle-lab/CybersecurityKnowledgeGraphs)
